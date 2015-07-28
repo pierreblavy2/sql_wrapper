@@ -1,0 +1,15 @@
+Sql_wrapper is a c++ template oriented wrapper for sqlite.
+
+Features
+- A user friendly API
+- Execute queries, write/read data from/to common conainers.
+- Easy to extend to custom data types, and custom containers
+- A way to execute a function in parallel for each line of obtained data
+
+More details, and complete documentation is available online here
+https://tentacule.be/fossil/cpp-sql_wrapper/index
+
+The project is licensed under LGPL 3.0+ 
+EXCEPT the code in include/boost, which is licensed under
+the boost software license 
+http://www.boost.org/users/license.html
