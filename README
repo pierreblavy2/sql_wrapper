@@ -1,3 +1,7 @@
+[OBSOLETE] For a more generic c++ database wrapper, see cpp-tdb
+at https://github.com/pierreblavy2/cpp-tdb
+
+
 Sql_wrapper is a c++ template oriented wrapper for sqlite.
 
 Features
